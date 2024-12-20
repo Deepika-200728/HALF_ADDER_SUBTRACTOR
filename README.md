@@ -1,4 +1,4 @@
-# HALF_ADDER_SUBTRACTOR
+![Screenshot (36)](https://github.com/user-attachments/assets/06ea1bfc-164a-4d6e-a64a-e5a09e32072a)# HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -55,7 +55,14 @@ Figure -02 HALF Subtractor
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
+![Screenshot (37)](https://github.com/user-attachments/assets/b3278df9-d731-4aa7-af89-7f18d339ae79)
+![Screenshot (36)](https://github.com/user-attachments/assets/2ab545f7-269b-492a-98e3-d42466f2b57b)
+
+
 
 **Output/TIMING Waveform**
+![Screenshot (32)](https://github.com/user-attachments/assets/5225dfaa-70dd-421f-ad9a-49d280e293d4)
+![Screenshot (33)](https://github.com/user-attachments/assets/ee221d12-c7e6-4f6f-81fe-5d4ebfbf9b1b)
 
 **Result:**
+To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming is verified.
